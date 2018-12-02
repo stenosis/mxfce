@@ -1,0 +1,33 @@
+{
+   "description": "Mfce - Dark theme for Google Chrome and XFCE",
+   "icons": {
+      "128": "images/icon128.png"
+   },
+   "manifest_version": 2,
+   "name": "Xfce Incognito Dark Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 241, 243, 244 ],
+         "frame": [ 20, 18, 19 ],
+         "frame_inactive": [ 60, 64, 67 ],
+         "frame_incognito": [ 32, 33, 36 ],
+         "frame_incognito_inactive": [ 60, 64, 67 ],
+         "ntp_background": [ 20, 18, 19 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 154, 160, 166 ],
+         "tab_text": [ 241, 243, 244 ],
+         "toolbar": [ 50, 54, 57 ]
+      },
+      "images": {
+         "theme_ntp_background": "images/theme_ntp_background.png"
+      },
+      "properties": {
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, 0.96 ]
+      }
+   },
+   "version": "1.0"
+}
